@@ -1,0 +1,15 @@
+/*
+Theme Name: Twenty Twelve Child Theme (EMD Web 3)
+Theme URI: http://www.kelseylawrence.com/wptestsite/
+Description: Your theme description goes here
+Author: Kelsey Lawrence
+Author URI: http://www.yourdomainname.com
+Template: twentytwelve
+Version: 0.1
+*/
+
+@import url("../twentytwelve/style.css");
+
+.site-title a {
+	color:red !important;
+}
